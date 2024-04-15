@@ -1,3 +1,3 @@
 # CursoPython
- PythonDio
-print ("Olá mundo)
+ Olá Mundo!
+ Repositorio criado durante uma aula do youtube.
